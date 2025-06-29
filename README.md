@@ -2,7 +2,7 @@
 
 Projeto baseado no template **Tulen** da [Colorlib](https://colorlib.com/), ideal para portfólios de fotografia, agências criativas ou galerias visuais.
 
-<img src = "https://github.com/guilhermevon/tulen-photography/blob/main/img/previewCollorib2.png" alt="tulen">
+![Preview]("https://github.com/guilhermevon/tulen-photography/blob/main/img/previewCollorib2.png)
 
 ## 🧩 Funcionalidades
 
